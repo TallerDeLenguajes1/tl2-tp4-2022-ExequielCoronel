@@ -1,0 +1,15 @@
+@{
+    ViewData["Title"] = "Alta Cadete";
+}
+
+<h1>@ViewData["Title"]</h1>
+<form action="/CadeteriaDB/Alta" method="post" id="UPCadete">
+    <label for="nombre">Nombre</label>
+    <input type="text" name="nombre" id="nombre" class="form-control" placeholder="nombre del cadete">
+    <label for="direccion">Dirección</label>
+    <input type="text" name="direccion" id="direccion" class="form-control" placeholder="dirección del cadete">
+    <label for="telefono">Telefono</label>
+    <input type="number" id="telefono" class="form-control" name="telefono" placeholder="telefono del cadete" max="4294967295">
+    <input type="submit" value="Cargar">
+    <input type="reset" value="Limpiar">
+</form>

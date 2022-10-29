@@ -30,4 +30,12 @@ namespace Cadeteria.Models;
             this.Telefono = Telefono;
             AI++;
         }
+
+        public Persona(long ID,string Nombre, string Direccion, uint Telefono)
+        {
+            this.ID=ID;
+            this.Nombre = Nombre;
+            this.Direccion=Direccion;
+            this.Telefono=Telefono;
+        }
     }

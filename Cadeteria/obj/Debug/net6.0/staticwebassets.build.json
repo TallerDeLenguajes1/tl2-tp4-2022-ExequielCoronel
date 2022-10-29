@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Te8BHJ2fdAp6N8/oq41FcJDkwCTXrw77Pg/9HluBXdA=",
+  "Hash": "t/vpF110Pz3B3dIllxs7RG9JODdqZJ06P0LFI1Syojc=",
   "Source": "Cadeteria",
   "BasePath": "_content/Cadeteria",
   "Mode": "Default",
@@ -49,6 +49,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\execo\\Escritorio\\Universidad\\3ero\\2doCuatrimestre\\TallerDeLenguajesII\\Practica\\TPN4\\tl2-tp4-2022-ExequielCoronel\\Cadeteria\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Cadeteria.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Users\\execo\\Escritorio\\Universidad\\3ero\\2doCuatrimestre\\TallerDeLenguajesII\\Practica\\TPN4\\tl2-tp4-2022-ExequielCoronel\\Cadeteria\\wwwroot\\Cadetes.csv",
+      "SourceId": "Cadeteria",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\execo\\Escritorio\\Universidad\\3ero\\2doCuatrimestre\\TallerDeLenguajesII\\Practica\\TPN4\\tl2-tp4-2022-ExequielCoronel\\Cadeteria\\wwwroot\\",
+      "BasePath": "_content/Cadeteria",
+      "RelativePath": "Cadetes.csv",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Cadetes.csv"
     },
     {
       "Identity": "C:\\Users\\execo\\Escritorio\\Universidad\\3ero\\2doCuatrimestre\\TallerDeLenguajesII\\Practica\\TPN4\\tl2-tp4-2022-ExequielCoronel\\Cadeteria\\wwwroot\\css\\site.css",

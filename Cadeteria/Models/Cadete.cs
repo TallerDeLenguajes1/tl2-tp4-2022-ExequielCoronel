@@ -11,6 +11,8 @@ namespace Cadeteria.Models;
             Pedidos = new List<Pedido>();
         }
 
+        public Cadete(long id,string Nombre, string Direccion, uint Telefono):base(id,Nombre,Direccion,Telefono){Pedidos = new List<Pedido>();}
+
         public Cadete():base()
         {
             Pedidos = new List<Pedido>();
